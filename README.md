@@ -1,4 +1,8 @@
 # pagila-hw
+Badge: 
+
+[![](https://github.com/DestrosCMC/pagila-hw/workflows/tests/badge.svg)](https://github.com/DestrosCMC/pagila-hw/actions?query=workflow%3Atests)
+
 [![](https://github.com/DestrosCMC/pagila-hw/workflows/tests/badge.svg)](https://github.com/DestrosCMC/pagila-hw/actions?query=workflow%3Atests)
  
 ## Background
